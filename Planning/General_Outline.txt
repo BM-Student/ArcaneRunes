@@ -1,0 +1,33 @@
+Stage One - Basic systems
+    - Character Movement (with collision) [Done]
+    - Module approach to having enemies and objects loaded (multiple files) [Done]
+    - Scale window and everything by screen dimensions
+    - Level Editor and storing
+    - Screen scrolling [Done]
+    - Read sprite sheet
+    - Animations [Done]
+    - Main Menu
+    - Pause Screen
+    - Over world
+
+Stage Two - Basic Gameplay
+    - Enemies (A* algo)
+    - Moving platforms
+    - Hit box
+    - Melee and Ranged attacks
+    - Parallax [Done]
+    - Walljumps
+    - Time slow
+
+Stage Three - Art
+    - Two Characters
+    - Enemies (Slime, Bat, Rope enemy)
+    - Tiles
+    - Background
+
+Stage Four - Polish
+    - Flash white when hit
+    - Player death explosion and slow time
+    - Select Characters
+    - Change outfit
+    - General tweaks for player fun

@@ -1,0 +1,5 @@
+green0 = '#0e5135'
+green1 = '#0d9263'
+green2 = '#4aba91'
+gold = '#d4ce46'
+grey = '#494b4b'
